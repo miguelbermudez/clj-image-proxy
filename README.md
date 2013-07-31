@@ -16,9 +16,8 @@ _this is how we learn_...
 
 Copyright © 2013 FIXME
 
-Distributed under the Eclipse Public License, the same as Clojure.
 =======
-clj-image-proxy
-===============
+####Distributed under the Eclipse Public License, the same as Clojure.
+####clj-image-proxy
 
 
